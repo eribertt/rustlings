@@ -2,7 +2,7 @@
 // Fill in the rest of the line that has code missing!
 // No hints, there's no tricks, just get used to typing these :)
 
-// I AM NOT DONE
+// Done May 14, 2021
 
 fn main() {
     // Booleans (`bool`)
@@ -12,7 +12,9 @@ fn main() {
         println!("Good morning!");
     }
 
-    let // Finish the rest of this line like the example! Or make it be false!
+    // Finish the rest of this line like the example! Or make it be false!
+	// due to short-circuiting this will not be printed
+    let is_evening = false;
     if is_evening {
         println!("Good evening!");
     }
