@@ -17,20 +17,53 @@
 ✓ Successfully ran exercises/move_semantics/move_semantics2.rs!
 ✓ Successfully ran exercises/move_semantics/move_semantics3.rs!
 ✓ Successfully ran exercises/move_semantics/move_semantics4.rs!
-! Compiling of exercises/primitive_types/primitive_types1.rs failed! Please try again. Here's the output:
-[0m[1m[38;5;9merror[0m[0m[1m: expected identifier, found keyword `if`[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/primitive_types/primitive_types1.rs:16:5[0m
+✓ Successfully ran exercises/primitive_types/primitive_types1.rs!
+✓ Successfully ran exercises/primitive_types/primitive_types2.rs!
+✓ Successfully ran exercises/primitive_types/primitive_types3.rs!
+✓ Successfully tested exercises/primitive_types/primitive_types4.rs
+✓ Successfully ran exercises/primitive_types/primitive_types5.rs!
+✓ Successfully tested exercises/primitive_types/primitive_types6.rs
+! Compiling of exercises/structs/structs1.rs failed! Please try again. Here's the output:
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find value `green` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:24:20[0m
 [0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    if is_evening {[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[38;5;9m^^[0m[0m [0m[0m[1m[38;5;9mexpected identifier, found keyword[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        assert_eq!(green.name, "green");[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: expected one of `:`, `;`, `=`, `@`, or `|`, found `is_evening`[0m
-[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/primitive_types/primitive_types1.rs:16:8[0m
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find value `green` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:25:20[0m
 [0m   [0m[0m[1m[38;5;12m|[0m
-[0m[1m[38;5;12m16[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    if is_evening {[0m
-[0m   [0m[0m[1m[38;5;12m| [0m[0m       [0m[0m[1m[38;5;9m^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mexpected one of `:`, `;`, `=`, `@`, or `|`[0m
+[0m[1m[38;5;12m25[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        assert_eq!(green.hex, "#00FF00");[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
 
-[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find value `green` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:33:20[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m33[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        assert_eq!(green.0, "green");[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
 
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find value `green` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:34:20[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m34[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        assert_eq!(green.1, "#00FF00");[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                   [0m[0m[1m[38;5;9m^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find value `unit_struct` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:41:49[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m41[0m[0m [0m[0m[1m[38;5;12m| [0m[0m        let message = format!("{:?}s are fun!", unit_struct);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                                                [0m[0m[1m[38;5;9m^^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unused import: `super::*`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/structs/structs1.rs:17:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m17[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    use super::*;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[33m^^^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 5 previous errors; 1 warning emitted[0m
+
+[0m[1mFor more information about this error, try `rustc --explain E0425`.[0m
 
 Type 'hint' to get help or 'clear' to clear the screen
