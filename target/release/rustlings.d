@@ -1,0 +1,1 @@
+/home/eribertt/rustlings/target/release/rustlings: /home/eribertt/rustlings/src/exercise.rs /home/eribertt/rustlings/src/main.rs /home/eribertt/rustlings/src/run.rs /home/eribertt/rustlings/src/ui.rs /home/eribertt/rustlings/src/verify.rs

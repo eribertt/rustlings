@@ -1,0 +1,12 @@
+/home/eribertt/rustlings/target/release/deps/inotify-939787383fe85a6c.rmeta: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/eribertt/rustlings/target/release/deps/libinotify-939787383fe85a6c.rlib: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/eribertt/rustlings/target/release/deps/inotify-939787383fe85a6c.d: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs:

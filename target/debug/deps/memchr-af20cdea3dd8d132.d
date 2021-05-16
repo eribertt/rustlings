@@ -1,0 +1,13 @@
+/home/eribertt/rustlings/target/debug/deps/memchr-af20cdea3dd8d132.rmeta: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/eribertt/rustlings/target/debug/deps/libmemchr-af20cdea3dd8d132.rlib: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/eribertt/rustlings/target/debug/deps/memchr-af20cdea3dd8d132.d: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs:

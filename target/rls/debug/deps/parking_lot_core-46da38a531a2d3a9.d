@@ -1,0 +1,10 @@
+/home/eribertt/rustlings/target/rls/debug/deps/parking_lot_core-46da38a531a2d3a9.rmeta: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs
+
+/home/eribertt/rustlings/target/rls/debug/deps/parking_lot_core-46da38a531a2d3a9.d: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs
+
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs:

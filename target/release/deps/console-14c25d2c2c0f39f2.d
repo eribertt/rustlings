@@ -1,0 +1,12 @@
+/home/eribertt/rustlings/target/release/deps/console-14c25d2c2c0f39f2.rmeta: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/eribertt/rustlings/target/release/deps/libconsole-14c25d2c2c0f39f2.rlib: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/eribertt/rustlings/target/release/deps/console-14c25d2c2c0f39f2.d: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:

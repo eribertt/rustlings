@@ -1,0 +1,12 @@
+/home/eribertt/rustlings/target/release/deps/proc_macro2-218f262b5ab89479.rmeta: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/eribertt/rustlings/target/release/deps/libproc_macro2-218f262b5ab89479.rlib: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/eribertt/rustlings/target/release/deps/proc_macro2-218f262b5ab89479.d: /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs:
+/home/eribertt/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs:
